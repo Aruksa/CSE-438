@@ -11,7 +11,7 @@ Project title:
 Attention based low light image enhancement
 
 Group Number:
-2
+3
 
 Group Members:
 19201079 Mohammad Muhibur Rahman
