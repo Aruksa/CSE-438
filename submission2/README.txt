@@ -3,16 +3,16 @@ https://youtu.be/_LMq9fwYda0
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1qbWmoZaoJLAmF2gJQ7dloByzyxjpzRkCiV5dVcCV5cg/edit?usp=sharing
+https://docs.google.com/presentation/d/1Tx3Y56mdcV5_a7_80Ce_O8veCzh9XXulhZqm6ZYFKG8/edit?usp=sharing
 
 Paper title:
-Deep Color Consistent Network for Low-Light Image Enhancement
+Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method
 
 Link to the paper:
-https://doi.org/10.1109/CVPR52688.2022.00194
+https://doi.org/10.48550/arXiv.2212.11548
 
 Group Number:
 3
 
 Individual Submitter:
-19201079 Mohammad Muhibur Rahman
+19201067 Anushua Ahmed 
