@@ -14,6 +14,12 @@ Harrison Kinsley & Daniel Kukiela
 2020
 Harrison Kinsley
 
+Link to the book:
+https://www.haio.ir/app/uploads/2021/12/Neural-Networks-from-Scratch-in-Python-by-Harrison-Kinsley-Daniel-Kukiela-z-lib.org_.pdf
+
+Link to the book chapter:
+https://github.com/Dev-Gaju/NNFS-book-with-Implementation/tree/master/Chapter_15
+
 Group Number:
 3
 
